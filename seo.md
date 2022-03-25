@@ -66,13 +66,13 @@ These tags are primarily to help with the display of content within social media
 An image used for decorative purposes only should have a blank alt attribute.
 
 ```
-<img src="/uploads/images/example.jpg" alt="" loading="lazy">
+<img src="/uploads/images/example.jpg" alt="">
 ```
 
 ### Contextual Images
 Images that help illustrate a concept related to page content should have the alt text attribute filled out. Try to describe the image so a user may understand how it fits into the context of the page content; be concise.
 ```
-<img src="/uploads/images/example.jpg" alt="Describe the image" loading="lazy">
+<img src="/uploads/images/example.jpg" alt="Describe the image">
 ```
 
 ## Headings
